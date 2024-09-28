@@ -1,7 +1,4 @@
 #include"Vehiculo.h"
-#include<iostream>
-#include<string.h>
-using namespace std;
 
 int main(){
     Vehiculo vehiculoHatch("hatch","rojo",150,180,180);

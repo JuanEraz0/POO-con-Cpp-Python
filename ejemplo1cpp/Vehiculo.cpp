@@ -1,7 +1,5 @@
 #include"Vehiculo.h"
-#include<string.h>
-#include<iostream>
-using namespace std;
+
 
 Vehiculo::Vehiculo(string tipo, string color, int ancho, int alto, int largo){ //método constructor
             this->tipo = tipo;
@@ -53,6 +51,7 @@ void Vehiculo::setAncho(int _newancho){
 void Vehiculo::setLargo(int _newlargo){
     largo = _newlargo;
 }
-//Vehiculo::~Vehiculo(){
 
-//}
+Vehiculo::~Vehiculo(){
+    cout << "Destruyendo el vehiculo de tipo: " << tipo << endl;
+}

@@ -32,7 +32,8 @@ public:
         void setAncho(int  _newancho );
         void setAlto( int _newalto );
         void setLargo( int _newlargo);
-    //~Vehiculo(); // Destructor
+        
+        ~Vehiculo(); // Destructor
 };
 
 
