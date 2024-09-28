@@ -66,7 +66,7 @@ int main(){
     Vehiculo vehiculoCity = Vehiculo("city","azul",150,160,150);
 
     //Uso de métodos para cada instancia
-    
+    /*
     vehiculoHatch.acelerar();
     vehiculoHatch.frenar();
     vehiculoHatch.arrancar();
@@ -84,6 +84,17 @@ int main(){
     vehiculoHatch.getColor();
     vehiculoHatch.setColor("verde");
     vehiculoHatch.getColor();
+    */
+    //modificacion de atributos de objeto vehiculoLem
+    vehiculoLem.setAlto(200);
+    vehiculoLem.setAncho(250);
+    vehiculoLem.setLargo(200);
+
+    //cambios en objeto
+
+    cout<<vehiculoLem.getAlto()<<endl;
+    cout<<vehiculoLem.getAncho()<<endl;
+    cout<<vehiculoLem.getLargo()<<endl;
 
     return 0;
 }
