@@ -6,6 +6,7 @@
 #include<iostream>
 #include<string.h>
 using namespace std;
+
 class Vehiculo
 {
 private:
@@ -17,10 +18,10 @@ private:
 public:
         Vehiculo(string tipo, string color, int ancho, int alto, int largo); // Constructor
         // El método constructor inicializa los objetos cuando se instancian con la clase, en este caso se inicializará con todos los atributos
-		void arrancar( );
-        void acelerar( );   
-        // Estos métodos son propios de la clase, y pueden ser utilizados por todas las instancias de la clase
+		void arrancar();
+        void acelerar();   
         void frenar( );
+        // Estos métodos son propios de la clase, y pueden ser utilizados por todas las instancias de la clase
         //métodos getter
         void getColor();
         int getAncho();
@@ -31,7 +32,7 @@ public:
         void setAncho(int  _newancho );
         void setAlto( int _newalto );
         void setLargo( int _newlargo);
-    ~Vehiculo(); // Destructor
+    //~Vehiculo(); // Destructor
 };
 
 

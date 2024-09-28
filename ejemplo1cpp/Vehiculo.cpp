@@ -1,6 +1,7 @@
 #include"Vehiculo.h"
-#include<iostream>
 #include<string.h>
+#include<iostream>
+using namespace std;
 
 Vehiculo::Vehiculo(string tipo, string color, int ancho, int alto, int largo){ //método constructor
             this->tipo = tipo;
@@ -39,19 +40,19 @@ void Vehiculo::getColor(){
 }
 
 void Vehiculo::setColor( string _newcolor){
-    this->color = _newcolor;
+    color = _newcolor;
 }
 
 void Vehiculo::setAlto(int _newalto){
-    this->alto = _newalto; 
+    alto = _newalto; 
 }
 void Vehiculo::setAncho(int _newancho){
-    this->ancho = _newancho;
+    ancho = _newancho;
 }
 
 void Vehiculo::setLargo(int _newlargo){
-    this->largo = _newlargo;
+    largo = _newlargo;
 }
-Vehiculo::~Vehiculo(){
+//Vehiculo::~Vehiculo(){
 
-}
+//}
