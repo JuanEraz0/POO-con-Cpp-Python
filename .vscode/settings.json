@@ -46,5 +46,6 @@
         "stdexcept": "cpp",
         "streambuf": "cpp",
         "typeinfo": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/ejemplo_CMake"
 }
