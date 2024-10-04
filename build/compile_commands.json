@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/hola.dir/main.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/main.cpp",
+  "file": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/main.cpp",
+  "output": "CMakeFiles/hola.dir/main.cpp.o"
+}
+]
