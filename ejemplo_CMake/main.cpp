@@ -1,6 +1,8 @@
 #include <compare>
 #include <iostream>
 #include <set>
+#include <fmt/format.h>
+
  
 struct Point
 {
@@ -26,5 +28,7 @@ int main()
         << (pt1 <= pt2) << ' '  // true
         << (pt1 >  pt2) << ' '  // false
         << (pt1 >= pt2) << ' '; // false
+
+    fmt::println("Hola con ejemplo de CMake");
 }
 
