@@ -47,5 +47,7 @@
         "streambuf": "cpp",
         "typeinfo": "cpp"
     },
-    "cmake.sourceDirectory": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/ejemplo_CMake"
+    "cmake.sourceDirectory": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/ejemplo_CMake",
+    "cmake.ignoreCMakeListsMissing": true,
+    "C_Cpp.default.compilerPath": "/usr/bin/g++-13"
 }
