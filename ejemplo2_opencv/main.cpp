@@ -4,7 +4,7 @@ using namespace std;
 using namespace cv;
 
 int main() {
-    // Cargar la imagen desde un archivo (reemplaza "imagen.jpg" con la ruta a tu imagen)
+    // Cargar la imagen desde un archivo (reemplazar la ruta de la imagen)
     Mat image = imread("/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/ejemplo2_opencv/images/lena.png");
 
     // Verificar si la imagen fue cargada correctamente
