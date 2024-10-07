@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build",
+  "command": "/usr/bin/c++  -I/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/_deps/fmt-src/include -g -std=gnu++23 -o CMakeFiles/ejemplocmake.dir/main.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/ejemplo_CMake/main.cpp",
+  "file": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/ejemplo_CMake/main.cpp",
+  "output": "CMakeFiles/ejemplocmake.dir/main.cpp.o"
+},
+{
+  "directory": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/_deps/fmt-build",
+  "command": "/usr/bin/c++  -I/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/_deps/fmt-src/include -g -std=gnu++23 -o CMakeFiles/fmt.dir/src/format.cc.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/_deps/fmt-src/src/format.cc",
+  "file": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/_deps/fmt-src/src/format.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/format.cc.o"
+},
+{
+  "directory": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/_deps/fmt-build",
+  "command": "/usr/bin/c++  -I/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/_deps/fmt-src/include -g -std=gnu++23 -o CMakeFiles/fmt.dir/src/os.cc.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/_deps/fmt-src/src/os.cc",
+  "file": "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/_deps/fmt-src/src/os.cc",
+  "output": "_deps/fmt-build/CMakeFiles/fmt.dir/src/os.cc.o"
+}
+]

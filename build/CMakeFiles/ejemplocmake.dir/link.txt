@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/ejemplocmake.dir/main.cpp.o -o ejemplocmake  _deps/fmt-build/libfmtd.a 

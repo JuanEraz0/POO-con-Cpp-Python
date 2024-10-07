@@ -1,0 +1,3 @@
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/ejemplo_opencv/build/CMakeFiles/ejemploOpenCV.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/ejemplo_opencv/build/CMakeFiles/edit_cache.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/ejemplo_opencv/build/CMakeFiles/rebuild_cache.dir
