@@ -12,7 +12,7 @@ class Multonn():
         return 1/(1 + np.exp(-h))
     
     def output_y(self):
-        return self.sigmoid(self.vect_func_h(self))
+        return self.sigmoid(self.vect_func_h())
     
     def sigmoid_prime(self,h):
         return self.sigmoid(h)*(1 -self.sigmoid(h))
@@ -21,11 +21,11 @@ class Multonn():
     def vect_func_h(self):
         return np.dot(self.x,self.w) + self.b
     def error_term(self):
-        error = (self.y-self.output_y(self.x,self.w,self.b))
-        delta = error *self.sigmoid_prime(self.vect_func_h(self.x,self.w,self.b))
+        error = (self.y-self.output_y())
+        delta = error *self.sigmoid_prime(self.vect_func_h())
         return delta
 
     #eta es la tasa de aprendizaje
     def increment(self,i):
-        incremento = self.eta* self.error_term(self.y,self.w,self.x,self.b)*self.x[i]
+        incremento = self.eta* self.error_term()*self.x
         return incremento
