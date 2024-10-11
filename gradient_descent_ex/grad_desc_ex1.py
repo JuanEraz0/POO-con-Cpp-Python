@@ -31,7 +31,7 @@ def increment(W,X,b,eta,i,y):
     return incremento
 
 def main():
-    print('MI PRIMERA RED NEURONAL')
+    print('MI PRIMERA RED NEURONAL UTILIZANDO GRADIENTE DESCENDIENTE')
     learning_rate = 0.1
     #valores de entrada
     x=np.array([1,1])
