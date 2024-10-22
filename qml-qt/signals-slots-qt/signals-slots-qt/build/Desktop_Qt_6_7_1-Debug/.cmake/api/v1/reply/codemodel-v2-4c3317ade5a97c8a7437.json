@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-db5f7eb4de58a562ffdb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "signals-slots-qt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "signals-slots-qt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signals-slots-qt-Debug-0abbf9f0488f3476556c.json",
+					"name" : "signals-slots-qt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "signals-slots-qt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signals-slots-qt_autogen-Debug-e0c4ebac1c765486bbe7.json",
+					"name" : "signals-slots-qt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "signals-slots-qt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-signals-slots-qt_autogen_timestamp_deps-Debug-cd35425f5599c24170da.json",
+					"name" : "signals-slots-qt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signals-slots-qt/signals-slots-qt/build/Desktop_Qt_6_7_1-Debug",
+		"source" : "/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signals-slots-qt/signals-slots-qt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
