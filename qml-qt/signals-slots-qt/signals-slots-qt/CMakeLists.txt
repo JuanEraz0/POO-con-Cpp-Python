@@ -14,6 +14,10 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
 
 add_executable(signals-slots-qt
   main.cpp
+  UserInteractor.h
+  UserInteractor.cpp
+  Firefox.h Firefox.cpp
+  InternetExplorer.h InternetExplorer.cpp
 )
 target_link_libraries(signals-slots-qt Qt${QT_VERSION_MAJOR}::Core)
 

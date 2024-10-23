@@ -17,10 +17,11 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
 
 # Cambiamos el nombre del ejecutable a "signal-slots"
 add_executable(signal-slots
-  main.cpp
-  UserInteractor.h UserInteractor.cpp
-  Firefox.h Firefox.cpp
-  InternetExplorer.h InternetExplorer.cpp
+    main.cpp
+    UserInteractor.h
+    UserInteractor.cpp
+    Firefox.h Firefox.cpp
+    InternetExplorer.h InternetExplorer.cpp
 )
 
 target_link_libraries(signal-slots Qt${QT_VERSION_MAJOR}::Core)

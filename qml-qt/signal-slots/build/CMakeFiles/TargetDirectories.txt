@@ -1,0 +1,8 @@
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signal-slots/build/CMakeFiles/signal-slots.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signal-slots/build/CMakeFiles/edit_cache.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signal-slots/build/CMakeFiles/rebuild_cache.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signal-slots/build/CMakeFiles/list_install_components.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signal-slots/build/CMakeFiles/install.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signal-slots/build/CMakeFiles/install/local.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signal-slots/build/CMakeFiles/install/strip.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signal-slots/build/CMakeFiles/signal-slots_autogen.dir
