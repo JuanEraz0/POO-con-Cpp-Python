@@ -1,0 +1,14 @@
+-rootPath
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml
+-cmake-output
+-output-file
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/Desktop_Qt_6_7_1-Debug/.qt/qml_imports/appprueba-ui-qml_build.cmake
+-importPath
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/Desktop_Qt_6_7_1-Debug/prueba-ui-qml
+-importPath
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/Desktop_Qt_6_7_1-Debug
+-importPath
+/home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/./qml
+-qrcFiles
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/qmake_prueba-ui-qml.qrc
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/appprueba-ui-qml_raw_qml_0.qrc

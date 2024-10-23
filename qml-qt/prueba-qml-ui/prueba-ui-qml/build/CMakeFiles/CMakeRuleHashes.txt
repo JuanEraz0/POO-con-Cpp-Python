@@ -1,0 +1,17 @@
+# Hashes of file build rules.
+7ede1d2b0c4a3f06d96294e8f82f3f69 .qt/qml_imports/appprueba-ui-qml_build.cmake
+e4bd711a27171dbbc26cd6dc5b3e36c7 .qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp
+74c5a5421559e91d0be7ea0d94a3f8f9 .qt/rcc/qrc_qmake_prueba-ui-qml.cpp
+080fe0db1cab105dabccc7961782d3a6 .rcc/qmlcache/appprueba-ui-qml_main_qml.cpp
+3eb67801bc8ee1e5b29863824242fec2 .rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp
+135f5a261a53d553c24afa5efc34a040 CMakeFiles/appprueba-ui-qml_autogen
+cdbf029978e723b7f7f82dfc2d0b360a CMakeFiles/appprueba-ui-qml_automoc_json_extraction
+a82094cc88874d07ecba8f3927ab9d1c CMakeFiles/appprueba-ui-qml_qmlimportscan
+7231a6a4e889956a979d622d31efb286 CMakeFiles/appprueba-ui-qml_qmllint
+12606125d5c19b586eb25836b799fd11 CMakeFiles/appprueba-ui-qml_qmllint_json
+351dee7db1191c27ae708293432e6f33 CMakeFiles/appprueba-ui-qml_qmllint_module
+a82094cc88874d07ecba8f3927ab9d1c CMakeFiles/appprueba-ui-qml_qmltyperegistration
+679f2d3780fa9f3f4972a54127237a3f appprueba-ui-qml_qmltyperegistrations.cpp
+d6b9b2b9f8641e1f424d226866bf2147 meta_types/qt6appprueba-ui-qml_metatypes.json
+93e255b5e806dfc56a64f6c82d32fae4 meta_types/qt6appprueba-ui-qml_metatypes.json.gen
+59293275ae416222198e2ca6fe510639 prueba-ui-qml/main.qml

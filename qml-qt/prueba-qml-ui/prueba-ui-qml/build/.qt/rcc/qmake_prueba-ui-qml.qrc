@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/prueba-ui-qml">
+    <file alias="qmldir">/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/prueba-ui-qml/qmldir</file>
+  </qresource>
+</RCC>
+

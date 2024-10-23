@@ -1,0 +1,4 @@
+module prueba-ui-qml
+typeinfo appprueba-ui-qml.qmltypes
+prefer :/prueba-ui-qml/
+
