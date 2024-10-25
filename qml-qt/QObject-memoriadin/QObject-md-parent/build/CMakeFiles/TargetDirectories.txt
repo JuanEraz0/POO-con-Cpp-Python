@@ -1,0 +1,8 @@
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/CMakeFiles/QObject-md-parent.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/CMakeFiles/edit_cache.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/CMakeFiles/rebuild_cache.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/CMakeFiles/list_install_components.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/CMakeFiles/install.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/CMakeFiles/install/local.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/CMakeFiles/install/strip.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/CMakeFiles/QObject-md-parent_autogen.dir

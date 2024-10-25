@@ -1,0 +1,9 @@
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/QObject-md-parent.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/edit_cache.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/rebuild_cache.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/list_install_components.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/install.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/install/local.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/install/strip.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/QObject-md-parent_autogen_timestamp_deps.dir
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/QObject-memoriadin/QObject-md-parent/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/QObject-md-parent_autogen.dir
