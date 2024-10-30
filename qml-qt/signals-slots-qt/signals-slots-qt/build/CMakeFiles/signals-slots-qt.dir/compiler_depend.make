@@ -1180,11 +1180,13 @@ CMakeFiles/signals-slots-qt.dir/main.cpp.o: /home/juan-jose-erazo-pacheco/Deskto
   /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signals-slots-qt/signals-slots-qt/InternetExplorer.h \
   /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signals-slots-qt/signals-slots-qt/UserInteractor.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/QCoreApplication \
+  /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/QDebug \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/QObject \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/QTimer \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/q20functional.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/q20memory.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/q20type_traits.h \
+  /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/q23utility.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qalgorithms.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qanystringview.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qarraydata.h \
@@ -1296,6 +1298,7 @@ CMakeFiles/signals-slots-qt.dir/main.cpp.o: /home/juan-jose-erazo-pacheco/Deskto
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qtypeinfo.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qtypes.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qutf8stringview.h \
+  /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qvariant.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qvarlengtharray.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qversiontagging.h \
   /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qxptype_traits.h \
@@ -1965,9 +1968,13 @@ signals-slots-qt_autogen/EWIEGA46WW/moc_Firefox.cpp:
 
 signals-slots-qt_autogen/mocs_compilation.cpp:
 
+/home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qvariant.h:
+
 /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qdeadlinetimer.h:
 
 /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qcoreapplication.h:
+
+/home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/q23utility.h:
 
 /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/QCoreApplication:
 

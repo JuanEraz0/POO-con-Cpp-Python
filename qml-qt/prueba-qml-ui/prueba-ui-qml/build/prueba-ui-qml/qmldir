@@ -1,4 +1,5 @@
 module prueba-ui-qml
 typeinfo appprueba-ui-qml.qmltypes
 prefer :/prueba-ui-qml/
+ModernButton 1.0 ModernButton.qml
 

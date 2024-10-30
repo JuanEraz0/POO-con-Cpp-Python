@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   ".qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp"
   ".qt/rcc/qrc_qmake_prueba-ui-qml.cpp"
+  ".rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp"
   ".rcc/qmlcache/appprueba-ui-qml_main_qml.cpp"
   ".rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp"
   "CMakeFiles/appprueba-ui-qml_autogen.dir/AutogenUsed.txt"
@@ -14,6 +15,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o.d"
   "CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o"
   "CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o.d"
+  "CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o"
+  "CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o.d"
   "CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o"
   "CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o.d"
   "CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o"

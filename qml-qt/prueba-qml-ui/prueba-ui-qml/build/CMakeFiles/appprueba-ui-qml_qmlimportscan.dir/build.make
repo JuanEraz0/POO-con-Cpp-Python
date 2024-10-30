@@ -72,6 +72,7 @@ CMakeFiles/appprueba-ui-qml_qmlimportscan: .qt/qml_imports/appprueba-ui-qml_buil
 .qt/qml_imports/appprueba-ui-qml_build.cmake: .qt/rcc/qmake_prueba-ui-qml.qrc
 .qt/qml_imports/appprueba-ui-qml_build.cmake: .qt/rcc/appprueba-ui-qml_raw_qml_0.qrc
 .qt/qml_imports/appprueba-ui-qml_build.cmake: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/main.qml
+.qt/qml_imports/appprueba-ui-qml_build.cmake: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/ModernButton.qml
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Running qmlimportscanner for appprueba-ui-qml"
 	cd /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml && /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/libexec/qmlimportscanner @/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.qt/qml_imports/appprueba-ui-qml_build.rsp
 

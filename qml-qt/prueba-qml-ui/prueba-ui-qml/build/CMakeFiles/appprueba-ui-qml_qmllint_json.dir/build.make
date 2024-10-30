@@ -68,6 +68,7 @@ include CMakeFiles/appprueba-ui-qml_qmllint_json.dir/progress.make
 
 CMakeFiles/appprueba-ui-qml_qmllint_json: /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/bin/qmllint
 CMakeFiles/appprueba-ui-qml_qmllint_json: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/main.qml
+CMakeFiles/appprueba-ui-qml_qmllint_json: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/ModernButton.qml
 CMakeFiles/appprueba-ui-qml_qmllint_json: .rcc/qmllint/appprueba-ui-qml_json.rsp
 	cd /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml && /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/bin/qmllint @/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmllint/appprueba-ui-qml_json.rsp
 

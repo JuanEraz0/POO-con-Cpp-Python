@@ -12,6 +12,13 @@ namespace _prueba_0x2d_ui_0x2d_qml_main_qml {
         reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
     };
 }
+namespace _prueba_0x2d_ui_0x2d_qml_ModernButton_qml { 
+    extern const unsigned char qmlData[];
+    extern const QQmlPrivate::AOTCompiledFunction aotBuiltFunctions[];
+    const QQmlPrivate::CachedQmlUnit unit = {
+        reinterpret_cast<const QV4::CompiledData::Unit*>(&qmlData), &aotBuiltFunctions[0], nullptr
+    };
+}
 
 }
 namespace {
@@ -27,6 +34,7 @@ Q_GLOBAL_STATIC(Registry, unitRegistry)
 
 Registry::Registry() {
     resourcePathToCachedUnit.insert(QStringLiteral("/prueba-ui-qml/main.qml"), &QmlCacheGeneratedCode::_prueba_0x2d_ui_0x2d_qml_main_qml::unit);
+    resourcePathToCachedUnit.insert(QStringLiteral("/prueba-ui-qml/ModernButton.qml"), &QmlCacheGeneratedCode::_prueba_0x2d_ui_0x2d_qml_ModernButton_qml::unit);
     QQmlPrivate::RegisterQmlUnitCacheHook registration;
     registration.structVersion = 0;
     registration.lookupCachedQmlUnit = &lookupCachedUnit;

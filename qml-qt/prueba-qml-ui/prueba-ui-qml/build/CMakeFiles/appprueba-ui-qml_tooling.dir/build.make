@@ -70,6 +70,11 @@ prueba-ui-qml/main.qml: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LA
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Copying main.qml to /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/prueba-ui-qml/main.qml"
 	cd /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml && /usr/bin/cmake -E copy /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/main.qml /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/prueba-ui-qml/main.qml
 
+prueba-ui-qml/ModernButton.qml: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/ModernButton.qml
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Copying ModernButton.qml to /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/prueba-ui-qml/ModernButton.qml"
+	cd /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml && /usr/bin/cmake -E copy /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/ModernButton.qml /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/prueba-ui-qml/ModernButton.qml
+
+appprueba-ui-qml_tooling: prueba-ui-qml/ModernButton.qml
 appprueba-ui-qml_tooling: prueba-ui-qml/main.qml
 appprueba-ui-qml_tooling: CMakeFiles/appprueba-ui-qml_tooling.dir/build.make
 .PHONY : appprueba-ui-qml_tooling

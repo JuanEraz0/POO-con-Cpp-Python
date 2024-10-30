@@ -15,7 +15,21 @@ void UserInteractor::getInput(){
 
 
     if (!phrase.isEmpty()){
-        emit phraseTyped(phrase);
+        setPhrase(phrase);
     }
 
+}
+
+QString UserInteractor::phrase() const
+{
+    return m_phrase;
+}
+
+void UserInteractor::setPhrase(const QString &newPhrase)
+{
+    if (m_phrase == newPhrase)
+        return;
+    m_phrase = newPhrase;
+    // el setter emite una señal cuando la frase cambia
+    emit phraseTyped(m_phrase);
 }

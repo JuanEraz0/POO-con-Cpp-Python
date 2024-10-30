@@ -117,20 +117,31 @@ prueba-ui-qml/appprueba-ui-qml.qmltypes: appprueba-ui-qml_qmltyperegistrations.c
 	/usr/bin/cmake -E make_directory /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache
 	/home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/libexec/qmlcachegen --bare --resource-path /prueba-ui-qml/main.qml -I /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build -I /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/./qml -i /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/prueba-ui-qml/qmldir --resource /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.qt/rcc/qmake_prueba-ui-qml.qrc --resource /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.qt/rcc/appprueba-ui-qml_raw_qml_0.qrc -o /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/main.qml
 
+.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp: /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/libexec/qmlcachegen
+.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/ModernButton.qml
+.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp: .qt/rcc/qmake_prueba-ui-qml.qrc
+.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp: .qt/rcc/appprueba-ui-qml_raw_qml_0.qrc
+.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp: prueba-ui-qml/appprueba-ui-qml.qmltypes
+.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp: prueba-ui-qml/qmldir
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Generating .rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp"
+	/usr/bin/cmake -E make_directory /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache
+	/home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/libexec/qmlcachegen --bare --resource-path /prueba-ui-qml/ModernButton.qml -I /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build -I /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/./qml -i /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/prueba-ui-qml/qmldir --resource /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.qt/rcc/qmake_prueba-ui-qml.qrc --resource /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.qt/rcc/appprueba-ui-qml_raw_qml_0.qrc -o /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/ModernButton.qml
+
 .qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/main.qml
+.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/ModernButton.qml
 .qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp: .qt/rcc/appprueba-ui-qml_raw_qml_0.qrc
 .qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp: /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/./libexec/rcc
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Running rcc for resource appprueba-ui-qml_raw_qml_0"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Running rcc for resource appprueba-ui-qml_raw_qml_0"
 	/home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/libexec/rcc --output /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp --name appprueba-ui-qml_raw_qml_0 /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.qt/rcc/appprueba-ui-qml_raw_qml_0.qrc --no-zstd
 
 meta_types/qt6appprueba-ui-qml_metatypes.json: meta_types/qt6appprueba-ui-qml_metatypes.json.gen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Generating meta_types/qt6appprueba-ui-qml_metatypes.json"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Generating meta_types/qt6appprueba-ui-qml_metatypes.json"
 	/usr/bin/cmake -E true
 
 CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.o: CMakeFiles/appprueba-ui-qml.dir/flags.make
 CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.o: appprueba-ui-qml_autogen/mocs_compilation.cpp
 CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.o: CMakeFiles/appprueba-ui-qml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.o"
 	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.o -MF CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/appprueba-ui-qml_autogen/mocs_compilation.cpp
 
 CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.i: cmake_force
@@ -144,7 +155,7 @@ CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_autogen/mocs_compilation.cpp.s:
 CMakeFiles/appprueba-ui-qml.dir/main.cpp.o: CMakeFiles/appprueba-ui-qml.dir/flags.make
 CMakeFiles/appprueba-ui-qml.dir/main.cpp.o: /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/main.cpp
 CMakeFiles/appprueba-ui-qml.dir/main.cpp.o: CMakeFiles/appprueba-ui-qml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/main.cpp.o"
 	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprueba-ui-qml.dir/main.cpp.o -MF CMakeFiles/appprueba-ui-qml.dir/main.cpp.o.d -o CMakeFiles/appprueba-ui-qml.dir/main.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/main.cpp
 
 CMakeFiles/appprueba-ui-qml.dir/main.cpp.i: cmake_force
@@ -158,7 +169,7 @@ CMakeFiles/appprueba-ui-qml.dir/main.cpp.s: cmake_force
 CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.o: CMakeFiles/appprueba-ui-qml.dir/flags.make
 CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.o: appprueba-ui-qml_qmltyperegistrations.cpp
 CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.o: CMakeFiles/appprueba-ui-qml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.o"
 	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.o -MF CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.o.d -o CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/appprueba-ui-qml_qmltyperegistrations.cpp
 
 CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.i: cmake_force
@@ -172,7 +183,7 @@ CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegistrations.cpp.s: cma
 CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o: CMakeFiles/appprueba-ui-qml.dir/flags.make
 CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o: .qt/rcc/qrc_qmake_prueba-ui-qml.cpp
 CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o: CMakeFiles/appprueba-ui-qml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o"
 	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o -MF CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o.d -o CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp
 
 CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.i: cmake_force
@@ -186,7 +197,7 @@ CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.s: cma
 CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o: CMakeFiles/appprueba-ui-qml.dir/flags.make
 CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o: .rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp
 CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o: CMakeFiles/appprueba-ui-qml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o"
 	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o -MF CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o.d -o CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp
 
 CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.i: cmake_force
@@ -200,7 +211,7 @@ CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_lo
 CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o: CMakeFiles/appprueba-ui-qml.dir/flags.make
 CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o: .rcc/qmlcache/appprueba-ui-qml_main_qml.cpp
 CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o: CMakeFiles/appprueba-ui-qml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o"
 	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o -MF CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o.d -o CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp
 
 CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.i: cmake_force
@@ -211,10 +222,24 @@ CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cp
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.s"
 	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp -o CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.s
 
+CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o: CMakeFiles/appprueba-ui-qml.dir/flags.make
+CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o: .rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp
+CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o: CMakeFiles/appprueba-ui-qml.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o"
+	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o -MF CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o.d -o CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp
+
+CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.i"
+	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp > CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.i
+
+CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.s"
+	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp -o CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.s
+
 CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o: CMakeFiles/appprueba-ui-qml.dir/flags.make
 CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o: .qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp
 CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o: CMakeFiles/appprueba-ui-qml.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o"
 	/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o -MF CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o.d -o CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o -c /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp
 
 CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.i: cmake_force
@@ -233,6 +258,7 @@ appprueba__ui__qml_OBJECTS = \
 "CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o" \
 "CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o" \
 "CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o" \
+"CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o" \
 "CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o"
 
 # External object files for target appprueba-ui-qml
@@ -244,6 +270,7 @@ appprueba-ui-qml: CMakeFiles/appprueba-ui-qml.dir/appprueba-ui-qml_qmltyperegist
 appprueba-ui-qml: CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_qmake_prueba-ui-qml.cpp.o
 appprueba-ui-qml: CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp.o
 appprueba-ui-qml: CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_main_qml.cpp.o
+appprueba-ui-qml: CMakeFiles/appprueba-ui-qml.dir/build/.rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp.o
 appprueba-ui-qml: CMakeFiles/appprueba-ui-qml.dir/build/.qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp.o
 appprueba-ui-qml: CMakeFiles/appprueba-ui-qml.dir/build.make
 appprueba-ui-qml: /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/lib/libQt6Quick.so.6.7.1
@@ -257,7 +284,7 @@ appprueba-ui-qml: /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/lib/libQt6Core.s
 appprueba-ui-qml: /usr/lib/x86_64-linux-gnu/libGLX.so
 appprueba-ui-qml: /usr/lib/x86_64-linux-gnu/libOpenGL.so
 appprueba-ui-qml: CMakeFiles/appprueba-ui-qml.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable appprueba-ui-qml"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable appprueba-ui-qml"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/appprueba-ui-qml.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -270,6 +297,7 @@ CMakeFiles/appprueba-ui-qml.dir/clean:
 
 CMakeFiles/appprueba-ui-qml.dir/depend: .qt/rcc/qrc_appprueba-ui-qml_raw_qml_0.cpp
 CMakeFiles/appprueba-ui-qml.dir/depend: .qt/rcc/qrc_qmake_prueba-ui-qml.cpp
+CMakeFiles/appprueba-ui-qml.dir/depend: .rcc/qmlcache/appprueba-ui-qml_ModernButton_qml.cpp
 CMakeFiles/appprueba-ui-qml.dir/depend: .rcc/qmlcache/appprueba-ui-qml_main_qml.cpp
 CMakeFiles/appprueba-ui-qml.dir/depend: .rcc/qmlcache/appprueba-ui-qml_qmlcache_loader.cpp
 CMakeFiles/appprueba-ui-qml.dir/depend: appprueba-ui-qml_qmltyperegistrations.cpp

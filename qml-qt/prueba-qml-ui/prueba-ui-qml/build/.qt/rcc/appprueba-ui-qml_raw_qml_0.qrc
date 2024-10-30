@@ -1,6 +1,7 @@
 <RCC>
   <qresource prefix="/prueba-ui-qml/">
     <file alias="main.qml">/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/main.qml</file>
+    <file alias="ModernButton.qml">/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/prueba-qml-ui/prueba-ui-qml/ModernButton.qml</file>
   </qresource>
 </RCC>
 

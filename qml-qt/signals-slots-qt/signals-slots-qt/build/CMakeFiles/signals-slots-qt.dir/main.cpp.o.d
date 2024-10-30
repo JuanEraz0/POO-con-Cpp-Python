@@ -342,8 +342,12 @@ CMakeFiles/signals-slots-qt.dir/main.cpp.o: \
  /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signals-slots-qt/signals-slots-qt/UserInteractor.h \
  /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/QObject \
  /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qobject.h \
+ /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/QDebug \
+ /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qdebug.h \
  /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signals-slots-qt/signals-slots-qt/Firefox.h \
  /home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/qml-qt/signals-slots-qt/signals-slots-qt/InternetExplorer.h \
  /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/QTimer \
  /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qtimer.h \
- /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qbasictimer.h
+ /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qbasictimer.h \
+ /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/qvariant.h \
+ /home/juan-jose-erazo-pacheco/Qt/6.7.1/gcc_64/include/QtCore/q23utility.h

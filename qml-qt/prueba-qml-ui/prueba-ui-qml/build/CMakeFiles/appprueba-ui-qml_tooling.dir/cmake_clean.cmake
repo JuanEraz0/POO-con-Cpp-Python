@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "prueba-ui-qml/ModernButton.qml"
   "prueba-ui-qml/main.qml"
 )
 
