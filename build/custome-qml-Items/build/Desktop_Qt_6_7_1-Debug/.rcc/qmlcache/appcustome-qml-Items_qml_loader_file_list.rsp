@@ -1,0 +1,6 @@
+--resource
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/custome-qml-Items/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/qmake_custome-qml-Items.qrc
+--resource
+/home/juan-jose-erazo-pacheco/Desktop/Servicio_Social_LABCOM/build/custome-qml-Items/build/Desktop_Qt_6_7_1-Debug/.qt/rcc/appcustome-qml-Items_raw_qml_0.qrc
+/custome-qml-Items/main.qml
+/custome-qml-Items/AudioInfoBox.qml

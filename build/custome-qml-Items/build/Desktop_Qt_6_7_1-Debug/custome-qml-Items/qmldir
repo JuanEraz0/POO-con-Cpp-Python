@@ -1,0 +1,5 @@
+module custome-qml-Items
+typeinfo appcustome-qml-Items.qmltypes
+prefer :/custome-qml-Items/
+AudioInfoBox 1.0 AudioInfoBox.qml
+
