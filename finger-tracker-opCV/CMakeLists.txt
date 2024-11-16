@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project( finger-track LANGUAGES CXX C)
+find_package( OpenCV REQUIRED )
+include_directories( ${OpenCV_INCLUDE_DIRS} ${CMAKE_SOURCE_DIR} )
+add_executable( finger-track main.cpp)
+target_link_libraries( finger-track ${OpenCV_LIBS} )
